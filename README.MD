@@ -50,5 +50,3 @@ That's it — your Pull Request is submitted! 🎉
 ---
 
 If you'd like, you can add a short demo link (hosted site) or a video attachment in your project folder and mention it in your project's `README.md`.
-
-If you want further refinements (template README for student projects, badges, or CI hints), tell me what to include and I can add it.

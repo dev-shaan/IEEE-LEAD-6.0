@@ -51,5 +51,3 @@ pip install -r requirements.txt
 - If your dataset is large, add a short script or instructions to download/preprocess it instead of committing the raw files.
 - Keep filenames short and descriptive.
 - Add comments in notebooks explaining preprocessing, model choice, and evaluation.
-
-If you'd like, I can add a `TEMPLATE.md` in this folder that contributors can copy into their project folders. Tell me if you want that and any specific fields to include (e.g., dataset link, license, contact).
